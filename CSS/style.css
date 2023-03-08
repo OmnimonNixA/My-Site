@@ -11,6 +11,17 @@ body {
 
 }
 
+iframe {
+    margin-top: 20px;
+    position: relative;
+    margin-left: 18%;
+}
+
+.skillsul li {
+    position: relative;
+    margin-left: 18%;
+}
+
 hr {
     width: 15%;
     border-style: dotted none none none;
